@@ -11,4 +11,5 @@
 public class MaClasse {
     //ma classe
     // commentaire Camille : on a réussit !
+    // créer un nouveau commentaire pour créer un problème.
 }
